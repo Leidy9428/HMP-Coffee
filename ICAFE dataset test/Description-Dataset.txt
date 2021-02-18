@@ -1,0 +1,36 @@
+Description
+___
+
+This dataset provided by the Economic and Market Studies Unit (UEEM) and Coffee Institute of Costa Rica (ICAFE)
+.(See information source here >>>http://www.icafe.cr/sector-cafetalero/informacion-de-mercado/costo-de-la-actividad-cafetalera/) 
+it contains Costa Rican Coffee’s financial information; in particular, it comprises 405 instances with 17 attributes 
+(15 concerning production cost, one related to the international market, and another to the production volume). 
+
+___
+
+Input Data
+
+
+ID	Name	Explainable names
+		
+t1	Fertilization	Time spent on fertilization
+t2	Renovation	Time spent on renovation
+t3	Weeds/pests	Time spent on West/pest control
+t4	Workforce	Price of workforce
+t5	Chemical	Investment in chemical  supplies
+t6	Organic	Investment in organic supplies
+t7	Weeds supplies	Investment in weeds supplies
+t8	Renovation supplies	Investment in renovation supplies
+t9	Maintenance	Investment in Maintenance
+t10	Transportation	Transportation expenses
+t11	Harvest	Payment for coffee collection
+t12	Implements	Implements for coffee pickers
+t13	Benefit	Investment in benefice coffee process
+t14	Thresh	Investment in thresh coffee process
+t15	Exchange rate	Variation in the USD dollar price
+t16	NY bag	New York bag coffee price
+t17	Volume	Coffee production volume
+
+Objetive Variable
+
+OV- Profitability Level		 Profitability estimatation in sustainable small-scale coffee productions
